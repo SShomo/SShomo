@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Sam a Python and C++ programmer who specializes in data science and game programming 👋
 
 <!--
 **SShomo/SShomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
