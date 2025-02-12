@@ -1,5 +1,7 @@
 ## I'm Sam a Python and C++ programmer who specializes in data science and game programming 👋
 
+![cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RjZjRhMW53dzgzem52d3F6ZW43ZXhmYnkyeDhlb3JyNm51a2duOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/leuNkvf9pE6loEnjnb/giphy.gif)
+
 <!--
 **SShomo/SShomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
