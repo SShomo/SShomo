@@ -1,7 +1,7 @@
-## I'm Sam a Python and C++ programmer who specializes in data science and game programming 👋
+## Hello, I'm Sam! I'm a programmer who specializes in data and machine learning concepts. I graduated from Champlain College in 2025 with a double major in Game Programming and Data Science. 
 
-I am currently working on a game called Shutterbugs which will be available to play in early May!![cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RjZjRhMW53dzgzem52d3F6ZW43ZXhmYnkyeDhlb3JyNm51a2duOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/leuNkvf9pE6loEnjnb/giphy.gif)
-
+- 🔭 I’m currently working on an undisclosed game with a team of highly skilled individuals.
+- 🌱 I’m currently learning Docker
 <!--
 **SShomo/SShomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
